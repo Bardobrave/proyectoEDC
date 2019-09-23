@@ -1,0 +1,1290 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ruta de la Sidra",
+                    "id": 2646,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo-Turismo de salud",
+                    "id": 2665,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "thala@talasoponiente.com",
+            "descripcion": {
+                "content": "<ul><li><strong><\/strong><b>Ruta de la Sidra Gijón<br/><\/b><\/li><\/ul><p><b>Baño relajante con Espuma de Manzana. 30\u20ac/persona.<br/>Peeling corporal de Manzana. 30\u20ac/persona.<br/>Envoltura de hidratación con Manzana. 30\u20ac/persona.<\/b><\/p><p><br/><\/p>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Playa de Poniente, Dique Este 33206",
+                {
+                    "content": "Playa de Poniente, Dique Este 33206",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/35970/143x143_v1_logothala.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 6761,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.544704 -5.66891",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Thala Estética",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/6761-thala-estetica",
+            "send": "fecha-actualizacion2014-10-01 10:50:57 +0200",
+            "telefono": {
+                "content": "985 358 306",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Salud,Turismo",
+            "url": "http://www.gijon.es/directorios/show/6761-thala-estetica",
+            "web": "http://www.thalaestetica.com/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Otros Centros Hospitalarios",
+                    "id": 426,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "dascsgij@planalfa.es",
+            "descripcion": {
+                "content": "El Sanatorio Nuestra Señora de Covadonga de Gijón tiene como finalidad  primordial la atención Médico-quirúrgica en  régimen de internado.\r\nEn un espacio natural privilegiado, en el  el centro de Gijón, te ofrece amplios espacios exteriores e interiores.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/General Suárez Valdés, s/n.",
+                {
+                    "content": "C/General Suárez Valdés, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 365 385",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30418/169x133_v1_covadonga.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Urgencias 24h.",
+            "identificador": 1290,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.530034 -5.649102",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Sanatorio Ntra. Sra. Covadonga",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1290-sanatorio-ntra-sra-covadonga",
+            "send": "fecha-actualizacion2014-01-22 12:02:53 +0100",
+            "telefono": {
+                "content": "985 365 122   /411",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Otros Centros Hospitalarios,Salud",
+            "url": "http://www.gijon.es/directorios/show/1290-sanatorio-ntra-sra-covadonga",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Otros Centros Hospitalarios",
+                    "id": 426,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "info@hospitalbego%C3%B1a.com",
+            "descripcion": {
+                "content": "El Centro consta de 65 habitaciones individuales, cada una de ellas con cama de acompañante, y cinco camas en U.V.I. - R.E.A. \r\nAdemás cuenta con: Agua caliente y calefacción central; Alumbrado de Emergencia; Eliminación de basuras; Seguridad contra incendios; Acceso independiente para Urgencias; Ascensores: 1; Montacamillas: 1; Mantenimiento, Lavandería y Cocina.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. de Pablo Iglesias, 92",
+                {
+                    "content": "Avda. de Pablo Iglesias, 92",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 365 385",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30423/169x133_v1_begonia.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Urgencias 24h.",
+            "identificador": 1289,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535078 -5.647691",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Sanatorio Begoña de Gijón",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1289-sanatorio-begona-de-gijon",
+            "send": "fecha-actualizacion2014-01-22 12:02:53 +0100",
+            "telefono": {
+                "content": "985 367 711   /233",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Otros Centros Hospitalarios,Salud",
+            "url": "http://www.gijon.es/directorios/show/1289-sanatorio-begona-de-gijon",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Otros Centros Hospitalarios",
+                    "id": 426,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "El Hospital de Jove es un centro perteneciente a una Fundación benéfico-privada sin ánimo de lucro que viene prestando asistencia sanitaria en la ciudad de Gijón, primero como Hospital de Caridad, y desde los años ochenta del siglo XX, en que el centro se transforma radicalmente, como un Hospital Comarcal más de la Red Hospitalaria Pública. \r\nCentro abierto a todo tipo de pacientes, pues atiende tanto pacientes del sistema público como de Mutuas, Aseguradoras y pacientes privados.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Eduardo Castro",
+                {
+                    "content": "Avda. Eduardo Castro",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 315 710",
+            "horario": "Urgencias 24 horas",
+            "identificador": 791,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.54975 -5.700365",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Hospital de Jove",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/791-hospital-de-jove",
+            "send": "fecha-actualizacion2017-03-28 12:25:26 +0200",
+            "telefono": {
+                "content": "985 320 050 , 985 181 080",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Otros Centros Hospitalarios,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/791-hospital-de-jove",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Cruz Roja",
+                    "id": 421,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Otros Centros Hospitalarios",
+                    "id": 426,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "correo@hospitalcrgijon.com",
+            "descripcion": {
+                "content": "El Hospital Cruz Roja Española de Gijón es un centro de dependencia jurídico-patrimonial de CRUZ ROJA ESPAÑOLA.\r\nDedicándose a la actividad de Asistencia Sanitaria y Hospitalización. Mantiene un convenio singular con el Servicio de Salud del Principado de Asturias (SESPA) como Hospital de agudos vinculado a la Red Pública Sanitaria.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Uría, 37",
+                {
+                    "content": "C/Uría, 37",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 133 191, 985 133 195",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6675/250x188_v1_Directoriovarioscruzroja.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 790,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538329 -5.654665",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Hospital de la Cruz Roja Española",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/790-hospital-de-la-cruz-roja-espanola",
+            "send": "fecha-actualizacion2014-01-22 12:02:42 +0100",
+            "telefono": {
+                "content": "985 195 000",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Cruz Roja,Otros Centros Hospitalarios,Salud",
+            "url": "http://www.gijon.es/directorios/show/790-hospital-de-la-cruz-roja-espanola",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Parque de Zarracina, s/n.",
+                {
+                    "content": "Parque de Zarracina, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30397/169x133_v1_zarracina.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 356,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537178 -5.656532",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud de Zarracina",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/356-centro-de-salud-de-zarracina",
+            "send": "fecha-actualizacion2015-01-14 12:30:57 +0100",
+            "telefono": {
+                "content": "985 334 711",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/356-centro-de-salud-de-zarracina",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Francisco Grande Covian, 4",
+                {
+                    "content": "C/Francisco Grande Covian, 4",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 164 000",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30417/169x133_v1_severoochoa.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Urgencias hasta las 22:00h.",
+            "identificador": 355,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.531483 -5.671072",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud Severo Ochoa",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/355-centro-de-salud-severo-ochoa",
+            "send": "fecha-actualizacion2014-01-22 12:02:28 +0100",
+            "telefono": {
+                "content": "985 151 900",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud",
+            "url": "http://www.gijon.es/directorios/show/355-centro-de-salud-severo-ochoa",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de les Cigarreres, s/n.",
+                {
+                    "content": "Avda. de les Cigarreres, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": "Lunes a Viernes: 8:00-15:00h. Atención continuada/urgencias: lunes a viernes: 15:00-20:00h.",
+            "identificador": 354,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.521075 -5.680396",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud Roces - Montevil",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/354-centro-de-salud-roces-montevil",
+            "send": "fecha-actualizacion2017-01-17 13:22:46 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/354-centro-de-salud-roces-montevil",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Orán, s/n.",
+                {
+                    "content": "C/Orán, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 390 753 , 985 164 618",
+            "horario": "Urgencias hasta las 22:00h.",
+            "identificador": 353,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Centro de Salud Perchera-Pumarín",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/353-centro-de-salud-perchera-pumarin",
+            "send": "fecha-actualizacion2015-07-13 08:58:17 +0200",
+            "telefono": {
+                "content": "985 144 711",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/353-centro-de-salud-perchera-pumarin",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de Juan Carlos I, 60",
+                {
+                    "content": "Avda. de Juan Carlos I, 60",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 321 199",
+            "horario": "Urgencias hasta 20:00h.",
+            "identificador": 352,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537303 -5.685816",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud Natahoyo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/352-centro-de-salud-natahoyo",
+            "send": "fecha-actualizacion2017-01-17 13:22:33 +0100",
+            "telefono": {
+                "content": "985 321 110",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/352-centro-de-salud-natahoyo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Juanín de Mieres, 8",
+                {
+                    "content": "C/Juanín de Mieres, 8",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 352 520",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30396/169x133_v1_laviada.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 350,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536346 -5.671198",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud de Laviada",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/350-centro-de-salud-de-laviada",
+            "send": "fecha-actualizacion2015-01-14 12:33:07 +0100",
+            "telefono": {
+                "content": "985 352 520",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/350-centro-de-salud-de-laviada",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Simón Bolivar, 6",
+                {
+                    "content": "C/Simón Bolivar, 6",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 308 838 , 985 354 918",
+            "horario": "",
+            "identificador": 349,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536776 -5.700512",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud de La Calzada II",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/349-centro-de-salud-de-la-calzada-ii",
+            "send": "fecha-actualizacion2015-07-13 08:55:29 +0200",
+            "telefono": {
+                "content": "985 308 845",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/349-centro-de-salud-de-la-calzada-ii",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Oriental, 11 - 13",
+                {
+                    "content": "C/Oriental, 11 - 13",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 315 999",
+            "horario": "",
+            "identificador": 348,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.540456 -5.697519",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud de La Calzada",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/348-centro-de-salud-de-la-calzada",
+            "send": "fecha-actualizacion2015-01-14 12:32:29 +0100",
+            "telefono": {
+                "content": "985 315 511",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/348-centro-de-salud-de-la-calzada",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. Torcuato Fernández Miranda, 36",
+                {
+                    "content": "Avda. Torcuato Fernández Miranda, 36",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 134 403",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30402/169x133_v1_elparque.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 347,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535366 -5.640814",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud Parque-Somió",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/347-centro-de-salud-parque-somio",
+            "send": "fecha-actualizacion2015-01-14 12:31:54 +0100",
+            "telefono": {
+                "content": "985 134 400",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/347-centro-de-salud-parque-somio",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. Juan Alvargonzález, 95",
+                {
+                    "content": "Avda. Juan Alvargonzález, 95",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 160 301",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30401/169x133_v1_llano.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Urgencias 24h.",
+            "identificador": 346,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.52982 -5.662744",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud El Llano",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/346-centro-de-salud-el-llano",
+            "send": "fecha-actualizacion2014-01-22 12:02:28 +0100",
+            "telefono": {
+                "content": "985 160 301",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud",
+            "url": "http://www.gijon.es/directorios/show/346-centro-de-salud-el-llano",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Avelino González Mallada, s/n.",
+                {
+                    "content": "C/Avelino González Mallada, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 332 822 , 985 336 757",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30398/169x133_v1_coto.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Urgencias hasta 20:00h.",
+            "identificador": 345,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.528545 -5.630879",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud El Coto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/345-centro-de-salud-el-coto",
+            "send": "fecha-actualizacion2017-01-17 13:22:25 +0100",
+            "telefono": {
+                "content": "985 332 822",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/345-centro-de-salud-el-coto",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Sanidad",
+                    "id": 196,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Río Cares, 20",
+                {
+                    "content": "C/Río Cares, 20",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 387 795",
+            "horario": "",
+            "identificador": 344,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.519639 -5.666024",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro de Salud Contrueces",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/344-centro-de-salud-contrueces",
+            "send": "fecha-actualizacion2015-01-14 12:31:34 +0100",
+            "telefono": {
+                "content": "985 387 444",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud,Sanidad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/344-centro-de-salud-contrueces",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Centros de Salud Mental",
+                    "id": 423,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Camino del Cura, 11 (La Camocha)",
+                {
+                    "content": "Camino del Cura, 11 (La Camocha)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 137 080",
+            "horario": "Lunes a Viernes: 8:00-15:00h.No tiene urgencias.",
+            "identificador": 343,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.492067 -5.650481",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Consultorio Médico Vega - La Camocha",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/343-consultorio-medico-vega-la-camocha",
+            "send": "fecha-actualizacion2014-01-22 12:02:28 +0100",
+            "telefono": {
+                "content": "985 137 372",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Centros de Salud Mental,Salud",
+            "url": "http://www.gijon.es/directorios/show/343-consultorio-medico-vega-la-camocha",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Centros de Salud Mental",
+                    "id": 423,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "No tiene urgencias.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. de Los Campones, 86",
+                {
+                    "content": "Consultores Médico de Tremañes - Avda. de Los Campones, 86",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 315 953",
+            "horario": "Lunes a Viernes: 8:00-15:00h.",
+            "identificador": 342,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.530614 -5.696948",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Consultorio Médico de Tremañes",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/342-consultorio-medico-de-tremanes",
+            "send": "fecha-actualizacion2014-01-22 12:02:28 +0100",
+            "telefono": {
+                "content": "985 315 953",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Centros de Salud Mental,Salud",
+            "url": "http://www.gijon.es/directorios/show/342-consultorio-medico-de-tremanes",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Primaria",
+                    "id": 424,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Donato Argüelles, 20",
+                {
+                    "content": "C/Donato Argüelles, 20",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 143 560",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30393/169x133_v1_puertalavilla.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a Viernes: 8:00-20.00h. ininterrumpido. Urgencias 24 horas",
+            "identificador": 269,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539002 -5.664493",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Ambulatorio Puerta La Villa",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/269-ambulatorio-puerta-la-villa",
+            "send": "fecha-actualizacion2014-01-22 12:02:26 +0100",
+            "telefono": {
+                "content": "985 358 467, 985 143 030, 985 341 500 (Urgencias)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Primaria,Salud",
+            "url": "http://www.gijon.es/directorios/show/269-ambulatorio-puerta-la-villa",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Centros de Salud Especializada",
+                    "id": 422,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Salud",
+                    "id": 929,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Orán, 18",
+                {
+                    "content": "Ambulatorio Dr Avelino Glez/ Pumarín - C/Orán, 18",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 388 157",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/30386/169x133_v1_pumarin.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a Viernes: 8:00-20.00h. ininterrumpido. No urgencias",
+            "identificador": 268,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.529392 -5.679014",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Ambulatorio Dr. Avelino Glez. / Pumarín",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/268-ambulatorio-dr-avelino-glez-pumarin",
+            "send": "fecha-actualizacion2014-01-22 12:02:25 +0100",
+            "telefono": {
+                "content": "985 389 288",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Centros de Salud Especializada,Salud",
+            "url": "http://www.gijon.es/directorios/show/268-ambulatorio-dr-avelino-glez-pumarin",
+            "web": ""
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}

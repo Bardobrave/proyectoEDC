@@ -1,0 +1,476 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Polígono de Promosa. Nave 23.",
+                {
+                    "content": "Polígono de Promosa. Nave 23.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 31 22 20",
+            "horario": {},
+            "identificador": 1861,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.531411 -5.690266",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Grúa Municipal",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1861-grua-municipal",
+            "send": "fecha-actualizacion2014-01-22 12:03:09 +0100",
+            "telefono": {
+                "content": "985 329 400 / 985 32 94 00 (Depósito)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Seguridad,Turismo",
+            "url": "http://www.gijon.es/directorios/show/1861-grua-municipal",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Policía",
+                    "id": 431,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad Ciudadana",
+                    "id": 197,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Cita Previa para la obtención o renovación de DNI o Pasaporte:<br/><ul><li>Internet: <a href=\"https://www.citapreviadnie.es\" title=\"Ir a https://www.citapreviadnie.es\" rel=\"external\">https://www.citapreviadnie.es<\/a><\/li><li>Teléfono: 060<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. de Carlos Marx, s/n.",
+                {
+                    "content": "Avda. de Carlos Marx, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 179 201",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6922/250x188_v1_DirectorioseguridadCNApolicia.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Abierta las 24h.",
+            "identificador": 1268,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538119 -5.677561",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Comisaría de la Policía Nacional El Natahoyo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1268-comisaria-de-la-policia-nacional-el-natahoyo",
+            "send": "fecha-actualizacion2015-12-28 09:41:27 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Policía,Seguridad,Seguridad Ciudadana,Turismo",
+            "url": "http://www.gijon.es/directorios/show/1268-comisaria-de-la-policia-nacional-el-natahoyo",
+            "web": "http://www.policia.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Policía",
+                    "id": 431,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Servicios Municipales",
+                    "id": 98,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Administración",
+                    "id": 92,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad Ciudadana",
+                    "id": 197,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/San José, 2",
+                {
+                    "content": "C/San José, 2",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 181 534",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6921/250x188_v1_Directorioserviciosmunicipalespolicialocal-centralita.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Abierto 24h.",
+            "identificador": 1267,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535219 -5.658692",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Policía Local/Centralita",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1267-policia-local-centralita",
+            "send": "fecha-actualizacion2014-09-01 15:23:36 +0200",
+            "telefono": {
+                "content": "985 181 100 ,  092",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Policía,Servicios Municipales,Zona Wifi,Seguridad,Administración,Comunicaciones,Seguridad Ciudadana,Turismo",
+            "url": "http://www.gijon.es/directorios/show/1267-policia-local-centralita",
+            "web": "http://www.gijon.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guardia Civil",
+                    "id": 429,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Irene Fdez. Pereda, 23",
+                {
+                    "content": "C/Irene Fdez. Pereda, 23",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 143 611",
+            "horario": {},
+            "identificador": 789,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.516904 -5.666352",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Guardia Civil",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/789-guardia-civil",
+            "send": "fecha-actualizacion2014-01-22 12:02:42 +0100",
+            "telefono": {
+                "content": "985 385 800 , 062",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Guardia Civil,Seguridad",
+            "url": "http://www.gijon.es/directorios/show/789-guardia-civil",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Cruz Roja",
+                    "id": 421,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Artilleria, 3",
+                {
+                    "content": "C/Artilleria, 3",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6468/276x211_v1_Directoriovariosponiente09.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 515,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.547998 -5.666606",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Cruz Roja del Mar",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/515-cruz-roja-del-mar",
+            "send": "fecha-actualizacion2014-01-22 12:02:32 +0100",
+            "telefono": {
+                "content": "985 170 707 , Emergencias 112",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Cruz Roja,Seguridad",
+            "url": "http://www.gijon.es/directorios/show/515-cruz-roja-del-mar",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Protección Marítima",
+                    "id": 433,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Torre de control de tráfico, salvamento marítimo y lucha contra la contaminación.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "El Musel, s/n.",
+                {
+                    "content": "Centro Regiona de Coordinación de Salvamento - El Musel, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 417,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.559494 -5.700178",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Centro Regional de Coordinación de Salvamento",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/417-centro-regional-de-coordinacion-de-salvamento",
+            "send": "fecha-actualizacion2014-01-22 12:02:30 +0100",
+            "telefono": {
+                "content": "985 326 050",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Protección Marítima,Seguridad",
+            "url": "http://www.gijon.es/directorios/show/417-centro-regional-de-coordinacion-de-salvamento",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bomberos",
+                    "id": 428,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "La actividad tradicionalmente encomendada al Cuerpo de Bomberos y justificación de su creación en el año 1890, es la extinción de los incendios. A través de los años, la sociedad ha exigido la asunción de nuevas competencias por parte de los Servicios de Prevención, Extinción de Incendios y Salvamento, desarrollando en la actualidad trabajos muy plurales.\r\nUn resumen de ellas serían las siguientes:\r\nExtinción de Incendios en: Edificios de uso diverso, \r\nIndustrias y Almacenes, Zonas Rurales, Zonas Forestales, Vehículos y Transportes, Objetos aislados, etc...\r\nSalvamentos: Asistencia a personas ante cualquier riesgo, Socorro a víctimas de accidentes, Atención a animales en situación de riesgo, Riesgos relacionados con el agua, Riesgos relacionados con el gas y la electricidad, Riesgos de la naturaleza, Ruinas y hundimientos, Rescate de cadáveres, Accidentes con mercancias peligrosas, etc...\r\nVarios: Transportes de Alimentos,Agua o medicamentos, Inspecciones,Control y Asesoramiento, \r\nActividades Divulgativas, Retenes de Prevención, Colaboraciones Especiales, Prevención, etc...",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Ctra. Carbonera (As-246), 96",
+                {
+                    "content": "Ctra. Carbonera (As-246), 96",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 163 901",
+            "horario": "Abierto las 24h.",
+            "identificador": 321,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.51537 -5.679299",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Bomberos",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/321-bomberos",
+            "send": "fecha-actualizacion2014-01-22 12:02:27 +0100",
+            "telefono": {
+                "content": "985 181 440; 080 (Urgencias)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bomberos,Seguridad",
+            "url": "http://www.gijon.es/directorios/show/321-bomberos",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Cruz Roja",
+                    "id": 421,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Seguridad",
+                    "id": 930,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "gijon@cruzroja.es",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Cigarreres, 38",
+                {
+                    "content": "C/Cigarreres, 38",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 359 571",
+            "horario": {},
+            "identificador": 283,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.520267 -5.677679",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Asamblea de la Cruz Roja",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/283-asamblea-de-la-cruz-roja",
+            "send": "fecha-actualizacion2014-01-22 12:02:26 +0100",
+            "telefono": {
+                "content": "985 319 313",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Cruz Roja,Seguridad",
+            "url": "http://www.gijon.es/directorios/show/283-asamblea-de-la-cruz-roja",
+            "web": ""
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}

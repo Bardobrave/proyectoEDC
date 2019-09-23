@@ -1,0 +1,3642 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Aparcamientos",
+                    "id": 439,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Parking: dispone de 55 plazas.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza Compostela",
+                {
+                    "content": "Plaza Compostela",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1771,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.532405 -5.666456",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Compostela",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1771-plaza-compostela",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Aparcamientos,Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1771-plaza-compostela",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Puerto Rico",
+                {
+                    "content": "C/Puerto Rico",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1769,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542012 -5.697822",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Nuevo Jove",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1769-parque-nuevo-jove",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1769-parque-nuevo-jove",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Grupo Nuestra Señora del Carmen",
+                {
+                    "content": "Grupo Nuestra Señora del Carmen",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1768,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.551666 -5.703127",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Portuarios",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1768-parque-portuarios",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1768-parque-portuarios",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza del Tres de Abril",
+                {
+                    "content": "Plaza del Tres de Abril",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1765,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.527757 -5.6622",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza del Tres de Abril",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1765-plaza-del-tres-de-abril",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1765-plaza-del-tres-de-abril",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Ana María",
+                {
+                    "content": "C/Ana María",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1763,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.526697 -5.666982",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de la calle Ana María",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1763-parque-de-la-calle-ana-maria",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1763-parque-de-la-calle-ana-maria",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior, bancos, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Carlos Marx",
+                {
+                    "content": "Avda. Carlos Marx",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1762,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535183 -5.672523",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de la Plaza Clara Ferrer",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1762-parque-de-la-plaza-clara-ferrer",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1762-parque-de-la-plaza-clara-ferrer",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior, bancos, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Puerto de Vergarada",
+                {
+                    "content": "C/Puerto de Vergarada",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1761,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.532103 -5.677603",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de la Escuela de Idiomas",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1761-parque-de-la-escuela-de-idiomas",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1761-parque-de-la-escuela-de-idiomas",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza de Italia",
+                {
+                    "content": "Plaza de Italia",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1294,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.543322 -5.664348",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza de Italia",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1294-plaza-de-italia",
+            "send": "fecha-actualizacion2014-01-22 12:02:53 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1294-plaza-de-italia",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Con estatua homenaje a Jovellanos, de 1889, realizada por el escultor Manuel Fuxá, fundida en Barcelona en 1891. Se sitúa frente al Mercado del Sur. Alberga un simbólico olivo. Aparcamiento subterráneo.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza del Seis de Agosto",
+                {
+                    "content": "Helados y Turrones Coppelia - Plaza del Seis de Agosto",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1265,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Plaza del Seis de Agosto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1265-plaza-del-seis-de-agosto",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1265-plaza-del-seis-de-agosto",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Sara Suárez Solís",
+                {
+                    "content": "Plaza Sara Suárez Solís",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1264,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.521209 -5.674342",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Sara Suárez Solís",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1264-plaza-sara-suarez-solis",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1264-plaza-sara-suarez-solis",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Edificios y lugares de interés",
+                    "id": 933,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Recibe\r\nsu nombre del militar y político asturiano Evaristo San Miguel y Valledor\r\n(1785-1862), autor de la letra del \u201cHimno de Riego\u201d en 1820.\r\n\r\n\r\n\r\n<p>La plaza\r\nse sitúa en uno de los vértices de la antigua muralla, levantada en 1837,\r\ncuando la ciudad fue declarada plaza fuerte durante la primera guerra carlista.\r\nSus muros se unían en este mismo espacio, formando uno de los baluartes de la\r\nfortificación.<\/p>\r\n\r\n\r\n\r\n<p>En el\r\núltimo cuarto del siglo XIX, el Estado cedió los terrenos que permitirían a la\r\nciudad proyectarse fuera del recinto amurallado. Comenzaba así el ensanche del\r\narenal de San Lorenzo, que daría como resultado el nacimiento del popular \u201cBarriu\r\nL\u2019Arena\u201d.<\/p>\r\n\r\n\r\n\r\n<p>Historicismo,\r\nart-decó, modernismo y racionalismo son los estilos que caracterizan a los\r\nedificios que rodean a la plaza.<\/p>Llamada popularmente La Plazuela. De forma ovalada, sirve de rótula \r\nentre el Gijón moderno y el del ensanche. Busto erigido en recuerdo de \r\nEvaristo San Miguel y Valledor, héroe de la Guerra de la Independencia.<br/><br/>Accesibilidad: Acceso, pavimento, movilidad interior, papeleras y \r\nfuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza San Miguel",
+                {
+                    "content": "Plaza San Miguel",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f5/59525/579x376_v1_plazuela.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1263,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539753 -5.65738",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza San Miguel",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1263-plaza-san-miguel",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Edificios y lugares de interés,Medio Ambiente,Turismo",
+            "url": "http://www.gijon.es/directorios/show/1263-plaza-san-miguel",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Romualdo Alvargonzález Lanquine",
+                {
+                    "content": "Plaza Romualdo Alvargonzález Lanquine",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1262,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.541398 -5.659112",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Romualdo Alvargonzález Lanquine",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1262-plaza-romualdo-alvargonzalez-lanquine",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1262-plaza-romualdo-alvargonzalez-lanquine",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Conjunto (plaza) de gran interés histórico-monumental: viviendas populares de pescadores, algunas con escaleras exteriores para acceder a la primera planta; edificios de fin de siglo; coetáneos, y sobre todo la Fábrica de Tabacos. Lo preside el busto del fallecido periodista local Arturo Arias. Anteriormente se la conocía por Campo de las Monjas.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza Periodista Arturo Arias",
+                {
+                    "content": "Plaza Periodista Arturo Arias",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1261,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.546524 -5.663109",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Periodista Arturo Arias",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1261-plaza-periodista-arturo-arias",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1261-plaza-periodista-arturo-arias",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Patrico Adúriz",
+                {
+                    "content": "Plaza Patrico Adúriz",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1260,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.519237 -5.668967",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Patricio Adúriz",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1260-plaza-patricio-aduriz",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1260-plaza-patricio-aduriz",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Padre Máximo González",
+                {
+                    "content": "Plaza Padre Máximo González",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1259,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539385 -5.677944",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Padre Máximo González",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1259-plaza-padre-maximo-gonzalez",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1259-plaza-padre-maximo-gonzalez",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Nicanor Piñole",
+                {
+                    "content": "Plaza Nicanor Piñole",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1258,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537865 -5.661792",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Nicanor Piñole",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1258-plaza-nicanor-pinole",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1258-plaza-nicanor-pinole",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Manuel del Busto",
+                {
+                    "content": "Plaza Manuel del Busto",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1257,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.534849 -5.64627",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Manuel del Busto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1257-plaza-manuel-del-busto",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1257-plaza-manuel-del-busto",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Los Fresnos",
+                {
+                    "content": "Plaza Los Fresnos",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1256,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.532648 -5.660926",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Los Fresnos",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1256-plaza-los-fresnos",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1256-plaza-los-fresnos",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Los Capuchinos",
+                {
+                    "content": "Plaza Los Capuchinos",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1255,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537513 -5.653517",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Los Capuchinos",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1255-plaza-los-capuchinos",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1255-plaza-los-capuchinos",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Los Campinos de Begoña",
+                {
+                    "content": "Plaza Los Campinos de Begoña",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1254,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538975 -5.660024",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Los Campinos de Begoña",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1254-plaza-los-campinos-de-begona",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1254-plaza-los-campinos-de-begona",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza las Industrias",
+                {
+                    "content": "Plaza las Industrias",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1253,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536988 -5.674388",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza las Industrias",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1253-plaza-las-industrias",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1253-plaza-las-industrias",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Tras la remodelación definitiva, acoge una simbólica fuente de vapor y aportaciones escultóricas de artistas regionales: Fernando Alba, Alejandro Mieres y Bernardo Sanjurjo.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza L'Humedal",
+                {
+                    "content": "Plaza L'Humedal",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1252,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539922 -5.666631",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza L'Humedal",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1252-plaza-l-humedal",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1252-plaza-l-humedal",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Juan Ángel Rubio Ballesteros",
+                {
+                    "content": "Plaza Juan Ángel Rubio Ballesteros",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1251,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.519155 -5.671284",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Juan Ángel Rubio Ballesteros",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1251-plaza-juan-angel-rubio-ballesteros",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1251-plaza-juan-angel-rubio-ballesteros",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "En su centro se han reconstruido, en ladrillo cara vista, un bastión y una de las torres de la muralla. A ella da frente el antiguo Instituto Asturiano de Matemáticas, Náutica y Mineralogía (1794) de Jovellanos. Subsuelo cruzado diagonalmente por la muralla romana.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza Jovellanos",
+                {
+                    "content": "Plaza Jovellanos",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1250,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.545585 -5.662755",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Jovellanos",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1250-plaza-jovellanos",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1250-plaza-jovellanos",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "La más importante de las de Gijón. Conocida popularmente como El Parchís, por la semejanza de la disposición en planta de sus parterres con ese juego de mesa. Punto de reunión, segregado, de pensionistas y adolescentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza del Instituto",
+                {
+                    "content": "Plaza del Instituto",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1248,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.541409 -5.661615",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza del Instituto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1248-plaza-del-instituto",
+            "send": "fecha-actualizacion2015-05-12 13:53:43 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Zona Wifi,Comunicaciones,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1248-plaza-del-instituto",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Institución Libre Enseñanza",
+                {
+                    "content": "Plaza Institución Libre Enseñanza",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1247,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.5392 -5.700413",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Institución Libre Enseñanza",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1247-plaza-institucion-libre-ensenanza",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1247-plaza-institucion-libre-ensenanza",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Ingeniero Orueta",
+                {
+                    "content": "Plaza Ingeniero Orueta",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1246,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.524838 -5.668205",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Ingeniero Orueta",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1246-plaza-ingeniero-orueta",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1246-plaza-ingeniero-orueta",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Gerardo Diego",
+                {
+                    "content": "Plaza Gerardo Diego",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1245,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.522809 -5.687858",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Gerardo Diego",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1245-plaza-gerardo-diego",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1245-plaza-gerardo-diego",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Florencio Rodríguez",
+                {
+                    "content": "Plaza Florencio Rodríguez",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1244,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542269 -5.663551",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Florencio Rodríguez",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1244-plaza-florencio-rodriguez",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1244-plaza-florencio-rodriguez",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Fermín García Bernardo",
+                {
+                    "content": "Plaza Fermín García Bernardo",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1243,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.545597 -5.663458",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Fermín García Bernardo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1243-plaza-fermin-garcia-bernardo",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1243-plaza-fermin-garcia-bernardo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza del Carmen",
+                {
+                    "content": "Plaza del Carmen",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1242,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.54206 -5.664614",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza del Carmen",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1242-plaza-del-carmen",
+            "send": "fecha-actualizacion2014-05-12 15:21:55 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1242-plaza-del-carmen",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza El Ampurdán",
+                {
+                    "content": "Plaza El Ampurdán",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1241,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.525206 -5.668648",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza El Ampurdán",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1241-plaza-el-ampurdan",
+            "send": "fecha-actualizacion2014-01-22 12:02:52 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1241-plaza-el-ampurdan",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza del Asturcón",
+                {
+                    "content": "Plaza del Asturcón",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1240,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536883 -5.684481",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza del Asturcón",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1240-plaza-del-asturcon",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1240-plaza-del-asturcon",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza de Los Donantes",
+                {
+                    "content": "Plaza de Los Donantes",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1239,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.51749 -5.670941",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza de Los Donantes",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1239-plaza-de-los-donantes",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1239-plaza-de-los-donantes",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza de las Brigadas Internacionales",
+                {
+                    "content": "Plaza de las Brigadas Internacionales",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1238,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.518936 -5.672702",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza de las Brigadas Internacionales",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1238-plaza-de-las-brigadas-internacionales",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1238-plaza-de-las-brigadas-internacionales",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Ciudad de La Habana",
+                {
+                    "content": "Plaza Ciudad de La Habana",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1236,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Plaza Ciudad de La Habana",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1236-plaza-ciudad-de-la-habana",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1236-plaza-ciudad-de-la-habana",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Campomanes",
+                {
+                    "content": "Plaza Campomanes",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1235,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537069 -5.705359",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Campomanes",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1235-plaza-campomanes",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1235-plaza-campomanes",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Reestructurado hace unos 5 años, para facilitar la contemplación de fragmentos de la muralla y restos de las termas romanas. El nivel superior, zona de paseo, bancos y arbolado. El inferior, parte importante del pasado romano de Gijón.\r\nAccesibilidad: Acceso, movilidad interior, pavimento y bancos.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Campo Valdés",
+                {
+                    "content": "Campo Valdés",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1234,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.545651 -5.660794",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Campo Valdés",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1234-campo-valdes",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1234-campo-valdes",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Aurora Sánchez",
+                {
+                    "content": "Plaza Aurora Sánchez",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1233,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537396 -5.650878",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Aurora Sánchez",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1233-plaza-aurora-sanchez",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1233-plaza-aurora-sanchez",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior, bancos, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Acebal y Rato",
+                {
+                    "content": "C/Acebal y Rato",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1128,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536735 -5.656554",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Zarracina",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1128-parque-zarracina",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1128-parque-zarracina",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y jardines",
+                    "id": 935,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de La Costa",
+                {
+                    "content": "Avda. de La Costa",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f9/9244/169x133_v1_begona.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1127,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538621 -5.660497",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Paseo y Jardines de Begoña",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1127-paseo-y-jardines-de-begona",
+            "send": "fecha-actualizacion2014-06-17 09:42:33 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Parques y jardines,Medio Ambiente,Turismo",
+            "url": "http://www.gijon.es/directorios/show/1127-paseo-y-jardines-de-begona",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Torrecerredo (Bº Nuevo Gijón)",
+                {
+                    "content": "C/Torrecerredo (Bº Nuevo Gijón)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1126,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.527343 -5.680157",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Víctor Fernández Suárez",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1126-parque-victor-fernandez-suarez",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1126-parque-victor-fernandez-suarez",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, aseos, movilidad interior, mesas y papeleras.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Severo Ochoa (Bº Pumarín)",
+                {
+                    "content": "C/Severo Ochoa (Bº Pumarín)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1125,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.528642 -5.672647",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Severo Ochoa",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1125-parque-de-severo-ochoa",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1125-parque-de-severo-ochoa",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. Salvador Allende",
+                {
+                    "content": "Avda. Salvador Allende",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1124,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.517801 -5.682796",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Salvador Allende",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1124-parque-salvador-allende",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1124-parque-salvador-allende",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/ F 'Fogoneros'",
+                {
+                    "content": "C/ F 'Fogoneros'",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1123,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.486361 -5.650953",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Primero de Mayo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1123-parque-primero-de-mayo",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1123-parque-primero-de-mayo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior, bancos y papeleras.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Orán",
+                {
+                    "content": "C/Orán",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1122,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.530092 -5.679674",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Perchera",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1122-parque-perchera",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1122-parque-perchera",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de Gaspar García Laviana",
+                {
+                    "content": "Avda. de Gaspar García Laviana",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1121,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.527051 -5.673333",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Ovideo González Sirgo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1121-parque-ovideo-gonzalez-sirgo",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1121-parque-ovideo-gonzalez-sirgo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Clara Ferrer",
+                {
+                    "content": "Plaza Clara Ferrer",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1120,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.533488 -5.673371",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Clara Ferrer",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1120-plaza-clara-ferrer",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1120-plaza-clara-ferrer",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Peña Santa de Enol",
+                {
+                    "content": "C/Peña Santa de Enol",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1119,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.525694 -5.680892",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Naranjo de Bulnes",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1119-parque-naranjo-de-bulnes",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1119-parque-naranjo-de-bulnes",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Azorín",
+                {
+                    "content": "C/Azorín",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1118,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.518299 -5.669879",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Montevil",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1118-parque-de-montevil",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1118-parque-de-montevil",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Miguel Servet",
+                {
+                    "content": "C/Miguel Servet",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1117,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.540978 -5.700316",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Miguel Servet",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1117-parque-miguel-servet",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1117-parque-miguel-servet",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de Los Campones",
+                {
+                    "content": "Avda. de Los Campones",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1116,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.530878 -5.69698",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque María Teresa González",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1116-parque-maria-teresa-gonzalez",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1116-parque-maria-teresa-gonzalez",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior, bancos, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. de Carlos Marx",
+                {
+                    "content": "Avda. de Carlos Marx",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1115,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535693 -5.673333",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Madres de La Plaza de Mayo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1115-parque-madres-de-la-plaza-de-mayo",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1115-parque-madres-de-la-plaza-de-mayo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, cafetería, movilidad interior, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Ctra. Pola de Siero (Bº El Llano/ Bº Ceares)",
+                {
+                    "content": "Ctra. Pola de Siero (Bº El Llano/ Bº Ceares)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1114,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.527787 -5.657407",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Los Pericones",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1114-parque-de-los-pericones",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1114-parque-de-los-pericones",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de El Llano",
+                {
+                    "content": "Avda. de El Llano",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1113,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Parque Lineal de El Llano",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1113-parque-lineal-de-el-llano",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1113-parque-lineal-de-el-llano",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Río Nalón",
+                {
+                    "content": "C/Río Nalón",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1112,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.521248 -5.666644",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Las Palmeras",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1112-parque-las-palmeras",
+            "send": "fecha-actualizacion2015-05-12 13:48:19 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Zona Wifi,Comunicaciones,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1112-parque-las-palmeras",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior, bancos, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Eleuterio Quintanilla",
+                {
+                    "content": "C/Eleuterio Quintanilla",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1111,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.531043 -5.666411",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque La Serena",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1111-parque-la-serena",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1111-parque-la-serena",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Camino de la Colina",
+                {
+                    "content": "Camino de la Colina",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1110,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.51824 -5.59708",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque La Mangada",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1110-parque-la-mangada",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1110-parque-la-mangada",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de Galicia",
+                {
+                    "content": "Avda. de Galicia",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1109,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539636 -5.68962",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque La Estrella",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1109-parque-la-estrella",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1109-parque-la-estrella",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. del Príncipe de Asturias",
+                {
+                    "content": "Avda. del Príncipe de Asturias",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1108,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Parque L'Arbeyal",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1108-parque-l-arbeyal",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1108-parque-l-arbeyal",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Simón Bolívar",
+                {
+                    "content": "C/Simón Bolívar",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1107,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538201 -5.700864",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Julián Besteiro",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1107-parque-julian-besteiro",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1107-parque-julian-besteiro",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Edificios y lugares de interés",
+                    "id": 933,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Puerto deportivo",
+                    "id": 945,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Zona Wifi",
+                    "id": 202,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Comunicaciones",
+                    "id": 191,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p>Proyectado en 1941, es el espacio verde de mayor extensión\r\nen la ciudad. En sus 151.857 m² coexisten\r\ndiferentes ambientes. Destacan sus lagos, flanqueados por gran variedad de\r\nárboles y poblados de ocas, cisnes y aves silvestres.<\/p>\r\n\r\n\r\n\r\n<p>El espacio central es la rosaleda, de estilo francés, donde\r\nhabitan los pavos reales, seña de identidad del parque. Otros espacios de\r\ninterés son la pradera próxima a la avenida de Castilla y la zona de juegos\r\ninfantiles.<\/p>\r\n\r\n\r\n\r\n<p>El parque posee un amplio repertorio escultórico con\r\nmotivos mitológicos, personajes históricos y personalidades de la ciudad. En su\r\nmobiliario destacan los bancos de piedra y hierro fundido de los años veinte.<\/p>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Castilla (esquina Avda. Torcuato Fernández Miranda)",
+                {
+                    "content": "Avda. Castilla (esquina Avda. Torcuato Fernández Miranda)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f5/59435/915x552_v1_parque.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1106,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537723 -5.642917",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Isabel La Católica",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1106-parque-de-isabel-la-catolica",
+            "send": "fecha-actualizacion2015-05-12 13:43:59 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Edificios y lugares de interés,Puerto deportivo,Zona Wifi,Comunicaciones,Medio Ambiente,Turismo",
+            "url": "http://www.gijon.es/directorios/show/1106-parque-de-isabel-la-catolica",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. del Príncipe de Asturias",
+                {
+                    "content": "Avda. del Príncipe de Asturias",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1099,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Parque Honduras",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1099-parque-honduras",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1099-parque-honduras",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y jardines",
+                    "id": 935,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso y movilidad interior.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Paseo del Doctor Fleming (Bº Somió)",
+                {
+                    "content": "Paseo del Doctor Fleming (Bº Somió)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1098,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539029 -5.640095",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Hermanos Castro",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1098-parque-hermanos-castro",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Parques y jardines",
+            "url": "http://www.gijon.es/directorios/show/1098-parque-hermanos-castro",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Areas Recreativas",
+                    "id": 411,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Camín de Granda a Cabueñes",
+                {
+                    "content": "Camín de Granda a Cabueñes",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6871/400x266_v1_Directorioareasrecreativasparquefluvialdelpiles.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1097,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.509335 -5.654144",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Fluvial del Piles Área Recreativa La Carbayera",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1097-parque-fluvial-del-piles-area-recreativa-la-carbayera",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Areas Recreativas,Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1097-parque-fluvial-del-piles-area-recreativa-la-carbayera",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. Juan Carlos I (Bº del Natahoyo)",
+                {
+                    "content": "Avda. Juan Carlos I (Bº del Natahoyo)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1096,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538329 -5.683011",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de la Fábrica de Loza",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1096-parque-de-la-fabrica-de-loza",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1096-parque-de-la-fabrica-de-loza",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior y papeleras.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Pérez Ayala",
+                {
+                    "content": "Avda. Pérez Ayala",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1095,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.532352 -5.664643",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Fábrica de La Luz",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1095-parque-fabrica-de-la-luz",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1095-parque-fabrica-de-la-luz",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Camín de el Lunes",
+                {
+                    "content": "Camín de el Lunes",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1094,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.485341 -5.656071",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Ernesto Winter",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1094-parque-ernesto-winter",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1094-parque-ernesto-winter",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Chile",
+                {
+                    "content": "C/Chile",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1093,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537591 -5.68977",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Elías Méndez Menéndez",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1093-parque-elias-mendez-menendez",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1093-parque-elias-mendez-menendez",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, aseos, movilidad interior y papeleras.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Paseo de Rosario Acuña",
+                {
+                    "content": "Paseo de Rosario Acuña",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1092,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Parque del Rinconín",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1092-parque-del-rinconin",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1092-parque-del-rinconin",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "En el barrio de la Calzada. 20.000 m cuadrados. Escultura: Monumento a la Paz, obra en hormigón del escultor gijonés Manolo Arenas.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Camino de Paquet",
+                {
+                    "content": "Camino de Paquet",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1091,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542712 -5.702012",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque El Lauredal",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1091-parque-el-lauredal",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1091-parque-el-lauredal",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Camino de Rubín",
+                {
+                    "content": "Camino de Rubín",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1090,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542362 -5.705429",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque del Castañéu",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1090-parque-del-castaneu",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1090-parque-del-castaneu",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Los Calafates",
+                {
+                    "content": "C/Los Calafates",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1089,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.518081 -5.679009",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Roces",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1089-parque-de-roces",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1089-parque-de-roces",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "En las antiguas instalaciones de la fábrica.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Bº Moreda",
+                {
+                    "content": "Bº Moreda",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1088,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535459 -5.683558",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Moreda",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1088-parque-de-moreda",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1088-parque-de-moreda",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Camino de los Calderos",
+                {
+                    "content": "Camino de los Calderos",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1087,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.516821 -5.671633",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Los Calderos",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1087-parque-de-los-calderos",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1087-parque-de-los-calderos",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Sito en el antiguo solar de Hidroeléctrica del Cantábrico. Area peatonal y zona de aparcamiento.\r\nAccesibilidad: Acceso, pavimento, movilidad interior y papeleras.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Menéndez y Pelayo (Bº de la Arena)",
+                {
+                    "content": "C/Menéndez y Pelayo (Bº de la Arena)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/32366/1024x768_v1_FABRICADELGAS.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1086,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539291 -5.651247",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de la Fábrica de Gas",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1086-parque-de-la-fabrica-de-gas",
+            "send": "fecha-actualizacion2014-05-12 14:31:20 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1086-parque-de-la-fabrica-de-gas",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Velázquez",
+                {
+                    "content": "C/Velázquez",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1085,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.522737 -5.676852",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Antonio Ortega",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1085-parque-de-antonio-ortega",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1085-parque-de-antonio-ortega",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Movilidad interior, bancos y papeleras.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Ctra. Gijón - Alto del Infanzón(por La Providencia)",
+                {
+                    "content": "Ctra. Gijón - Alto del Infanzón(por La Providencia)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1084,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.54543 -5.634795",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Julián Ayesta",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1084-parque-julian-ayesta",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1084-parque-julian-ayesta",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidada interior y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. de la Costa",
+                {
+                    "content": "Avda. de la Costa",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1083,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Parque Cocheras",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1083-parque-cocheras",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1083-parque-cocheras",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Dos esculturas: en la cima, \"Elogio del Horizonte\", de Chillida, y en uno de los accesos al cerro, \"Nordeste\", de Joaquín Vaquero Turcios.\r\nAccesibilidad: Acceso, pavimento y movilidad interior.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Bº de Cimadevilla",
+                {
+                    "content": "Bº de Cimadevilla",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1082,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.548361 -5.662336",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque del Cerro Santa Catalina",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1082-parque-del-cerro-santa-catalina",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1082-parque-del-cerro-santa-catalina",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Orán",
+                {
+                    "content": "C/Orán",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1081,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.530092 -5.679674",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Cecilio Blanco Blanco",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1081-parque-cecilio-blanco-blanco",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1081-parque-cecilio-blanco-blanco",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "El parque se haya dividido en dos zonas, separadas por una calle.\r\nAccesibilidad: Acceso, pavimento, movilidad interior, bancos y papeleras.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. de Carlos Marx",
+                {
+                    "content": "Avda. de Carlos Marx",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1080,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535693 -5.673333",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Carlos Marx",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1080-parque-de-carlos-marx",
+            "send": "fecha-actualizacion2014-01-22 12:02:49 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1080-parque-de-carlos-marx",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Gran Capitán",
+                {
+                    "content": "C/Gran Capitán",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1079,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539885 -5.703776",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Calixto Rato",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1079-parque-calixto-rato",
+            "send": "fecha-actualizacion2014-01-22 12:02:48 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1079-parque-calixto-rato",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Miradores",
+                    "id": 413,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Ubicado sobre terrenos militares recuperados para el disfrute y el ocio, fue inaugurado en 1997. Cuenta con aparcamiento, zona infantil, un singular mirador sobre la costa cantábrica, grupos escultóricos (\"Homenaje a Galileo Galilei XV\" y \"Paisaje Germinador\") y amplios paseos.\r\nEn sus inmediaciones se encuentra la Ermita de la Providencia, con una amplia tradición entre los gijoneses, y diversos merenderos y sidrerías.\r\nSituado en el alto de la Providencia, al este de la ciudad, en la parroquia de Somió. Se accede por la GI-2 y nos desviamos hacia la ermita de la Providencia.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Camino del Fuerte (La Providencia)",
+                {
+                    "content": "Camino del Fuerte (La Providencia)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1078,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.553832 -5.618842",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque del Cabo San Lorenzo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1078-parque-del-cabo-san-lorenzo",
+            "send": "fecha-actualizacion2014-07-15 10:04:51 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines,Miradores,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1078-parque-del-cabo-san-lorenzo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimento, movilidad interior, bancos, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Lope de Vega",
+                {
+                    "content": "C/Lope de Vega",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1077,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.533422 -5.651897",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Belarmino Tomás",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1077-parque-belarmino-tomas",
+            "send": "fecha-actualizacion2014-01-22 12:02:48 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1077-parque-belarmino-tomas",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. Juan Carlos I (Bº del Natahoyo)",
+                {
+                    "content": "Avda. Juan Carlos I (Bº del Natahoyo)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1076,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538329 -5.683011",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque de Atalía",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1076-parque-de-atalia",
+            "send": "fecha-actualizacion2014-01-22 12:02:48 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1076-parque-de-atalia",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Jacques Ivés Cousteau",
+                {
+                    "content": "Plaza Jacques Ivés Cousteau",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1075,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.517455 -5.668527",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Jacques Ivés Cousteau",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1075-plaza-jacques-ives-cousteau",
+            "send": "fecha-actualizacion2014-01-22 12:02:48 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/1075-plaza-jacques-ives-cousteau",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Frente a La Escalerona. Plaza de planta triangular, con sótano para aparcamiento de coches, además de una construcción hotelera y un anfiteatro en el nivel superior.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Paseo de Muro de la Playa de San Lorenzo",
+                {
+                    "content": "Paseo de Muro de la Playa de San Lorenzo",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 889,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542459 -5.660464",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Jardines del Náutico",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/889-jardines-del-nautico",
+            "send": "fecha-actualizacion2014-01-22 12:02:43 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/889-jardines-del-nautico",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Accesibilidad: Acceso, pavimentos, movilidad interior, bancos, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Trinidad",
+                {
+                    "content": "C/Trinidad",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 888,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.543991 -5.664485",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Jardines de la Reina",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/888-jardines-de-la-reina",
+            "send": "fecha-actualizacion2014-01-22 12:02:43 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/888-jardines-de-la-reina",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Ha sido totalmente arreglado y ampliado hasta el Museo de Nicanor Piñole. Antes había dos parques ahora es solo uno.\r\nAccesibilidad: Acceso, pavimento, movilidad interior, banco, papeleras y fuentes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza Europa",
+                {
+                    "content": "Plaza Europa",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 887,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538279 -5.664775",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Jardines de la Plaza de Europa",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/887-jardines-de-la-plaza-de-europa",
+            "send": "fecha-actualizacion2014-01-22 12:02:43 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/887-jardines-de-la-plaza-de-europa",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Museos",
+                    "id": 391,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ocio",
+                    "id": 392,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Recintos singulares",
+                    "id": 1211,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Card",
+                    "id": 2741,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Museos y salas de exposiciones",
+                    "id": 931,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y jardines",
+                    "id": 935,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón card. Tarjeta turística",
+                    "id": 1227,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "informacion.botanico@gijon.es",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">  <h2>Organiza tu evento en el Botánico<\/h2><p>El Botánico te ofrece un espacio inigualable y totalmente versátil en el que organizar eventos, actos culturales y corporativos de muy diverso tipo. Ponemos a tu disposición nuestros espacios exteriores e interiores, ubicados en un marco natural excepcional...todo un plus de calidad a tener en cuenta en el momento de organizar tu actividad.<\/p><p>Consulta <a title=\"Ir a http://botanico.gijon.es/servicios/show/256-uso-de-espacios-del-jardin-botanico\" href=\"http://botanico.gijon.es/servicios/show/256-uso-de-espacios-del-jardin-botanico\">aquí<\/a> las condiciones de reserva.<\/p><p><\/p><h4 style=\"font-weight: bold;\">Entrada y visita guiada gratuita con la tarjeta turística Gijón Card (previa reserva)<br/><\/h4><br/><br/><p><\/p><\/div>    <h2>Espacios exteriores<\/h2><p>Disponemos de TRES ÁREAS AL AIRE LIBRE en las que, por capacidad de acogida y versatilidad, se concentran los eventos:<\/p><table><thead><tr><th>QUINTANA DE RIONDA<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td><p>Conjunto arquitectónico tradicional en el que los edificios han sido habilitados como áreas museográficas donde se desarrollan los contenidos de algunas de las colecciones botánicas.<br/>La Quintana de Rionda se halla muy próxima al Café del Botánico.<\/p><p><u>SUPERFICIE<\/u>: 650 m<sup>2<\/sup> exteriores, repartidos en dos espacios de<br/>450 m<sup>2<\/sup> y 200 m<sup>2<\/sup> cada uno.<\/p><\/td><td><img alt=\"Rionda\" src=\"http://botanico.gijon.es/data/images/f0/f2/27827/220x165_v1_Evento_rionda2.jpg\"/><\/td><\/tr><\/tbody><\/table><table><thead><tr><th>PRADERA DEL JARDÍN DE LA ISLA<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td><p>La pradera del Jardín de La Isla se ubica en este magnífico jardín histórico creado por el industrial gijonés Florencio Valdés en 1870, que ha mantenido el trazado original romántico, lo que permite apreciar elementos básicos en la jardinería de los últimos 200 años.<\/p><p><u>SUPERFICIE<\/u>: 4.150 m<sup>2.<\/sup><br/><strong><\/strong><\/p><\/td><td><img alt=\"Pradera\" src=\"http://botanico.gijon.es/data/images/f0/f2/27830/220x165_v1_Evento_pradera.jpg\"/><\/td><\/tr><\/tbody><\/table><table><thead><tr><th>PISTA DE TENIS DEL JARDÍN DE LA ISLA<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td><p>La pista de tenis del Jardín de la Isla, hecha con tierra batida a finales del siglo XIX, mantiene su diseño y composición original y es uno de los elementos singulares de este jardín histórico.<\/p><p><br/><u>SUPERFICIE<\/u>: 260 m<sup>2<br/><\/sup><\/p><\/td><td><img alt=\"Pista de tenis\" src=\"http://botanico.gijon.es/data/images/f0/f2/27831/220x165_v1_Evento_pistTenis.jpg\"/><\/td><\/tr><\/tbody><\/table>    <h2>Espacios cubiertos<\/h2><br/><table><thead><tr><th>SALA DE USOS MÚLTIPLES<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td><p>LOCALIZACIÓN: Edificio de Recepción del Jardín Botánico.                                                             <br/>SUPERFICIE: 68 m<sup>2<\/sup><br/>PROYECCIONES AUDIOVISUALES: si<br/>ACCESO A INTERNET: si<\/p><\/td><td> <img alt=\"Audiovisuales\" src=\"http://botanico.gijon.es/data/images/f0/f2/27924/220x165_v1_Audiovisuales.jpg\"/><\/td><\/tr><\/tbody><\/table><table><thead><tr><th>AULARIO<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td>LOCALIZACIÓN: Edificio de Recepción del Jardín Botánico.                                                             <br/>AFORO: máximo 50 personas<br/>SUPERFICIE: 62 m<sup>2<\/sup><br/>PROYECCIONES AUDIOVISUALES: si<br/>ACCESO A INTERNET: si<\/td><td><p><img alt=\"Aulario\" src=\"http://botanico.gijon.es/data/images/f0/f2/27912/220x165_v1_Aulario.jpg\"/><\/p><\/td><\/tr><\/tbody><\/table><table><thead><tr><th>PABELLÓN DE LINNEO Y TERRAZA<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td><p>LOCALIZACIÓN: al lado de la laguna cercana a la finca de La Isla. Cuenta, además, con una terraza semicubierta de 100 m 2, un selecto mirador sobre la laguna. El acceso al Pabellón de Linneo y la terraza está más limitado que al resto de espacios cubiertos, especialmente para vehículos; aún así el espacio ha acogido presentaciones de algunas marcas, exposiciones de moda, etc.<\/p><p>SUPERFICIE interior: 80 m 2<br/>SUPERFICIE TERRAZA SEMICUBIERTA:100 m 2<br/>PROYECCIONES AUDIOVISUALES: si<br/>ACCESO A INTERNET: si<\/p><\/td><td><p><img alt=\"Boreal terraza\" src=\"http://botanico.gijon.es/data/images/f0/f2/28020/220x165_v1_Boreal_terraza.jpg\"/><\/p><\/td><\/tr><\/tbody><\/table><table><thead><tr><th>EL CAFÉ DEL BOTÁNICO<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td><p>LOCALIZACIÓN: al lado de la Quintana de Rionda. <br/>Un agradable punto de encuentro que permite, gracias a su cierre acristalado, disfrutar desde cualquiera de sus mesas de las vistas del Jardín. El Café del Botánico permanece abierto como un servicio más, en los horarios de apertura al público vigentes en cada momento, y acompaña a los asistentes en actividades fuera de dicho horario.<\/p><p>SUPERFICIE interior: 60 m 2<br/>SUPERFICIE TERRAZA SEMICUBIERTA: 40 m 2<br/>ACCESO A INTERNET: wifi<\/p><\/td><td><img alt=\"Cafe\" src=\"http://botanico.gijon.es/data/images/f0/f2/27834/219x165_v1_Cafe2.JPG\"/><\/td><\/tr><\/tbody><\/table><table><thead><tr><th>EDIFICIO LA ISLA<\/th><th><br/><\/th><\/tr><\/thead><tbody><tr><td><p>La Casa del Jardín de la Isla, de propiedad privada y anexa al Botánico, acoge eventos de gran capacidad (Congresos, banquetes...). El Jardín Botánico mantiene un convenio con su dueño para colaborar y compartir espacios y recursos.<br/><br/>Más información en su página web: <a title=\"Ir a http://www.fincalaisla.com/\" href=\"http://www.fincalaisla.com/\">http://www.fincalaisla.com/<\/a><\/p><\/td><td><img alt=\"Casa la isla\" src=\"http://botanico.gijon.es/data/images/f0/f2/28017/220x165_v1_Casa_LaIsla.jpg\"/><\/td><\/tr><\/tbody><\/table>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "<p>Avenida del Jardín Botánico 2230, 33203 Gijón, Asturias<\/p>",
+                {
+                    "content": "<p>Avenida del Jardín Botánico 2230, 33203 Gijón, Asturias<\/p>",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 130 685",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6725/291x224_v1_Directoriomuseosentr.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "(Verano) Junio a Septiembre: 10:00-21:00h.<br/>(Invierno) Octubre a Mayo: 10:00-18:00h.",
+            "identificador": 884,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.521535 -5.615795",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Jardín Botánico Atlántico de Gijón",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/884-jardin-botanico-atlantico-de-gijon",
+            "send": "fecha-actualizacion2017-05-05 14:06:05 +0200",
+            "telefono": {
+                "content": "+34 985 185 130 (Taquillas)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Museos,Ocio,Parques y Jardines,Museos y salas de exposiciones,Parques y jardines,Cultura y Ocio,Medio Ambiente,Turismo",
+            "url": "http://www.gijon.es/directorios/show/884-jardin-botanico-atlantico-de-gijon",
+            "web": "http://botanico.gijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/La Mancha",
+                {
+                    "content": "C/La Mancha",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 512,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.52411 -5.670587",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Corrada del valor Cívico",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/512-corrada-del-valor-civico",
+            "send": "fecha-actualizacion2014-01-22 12:02:32 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/512-corrada-del-valor-civico",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Monumentos",
+                    "id": 189,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Museos",
+                    "id": 391,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cultura y Ocio",
+                    "id": 185,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "museosarqueologicos@gijon.es",
+            "descripcion": {
+                "content": "El parque está situado en el Cabo Torres,desde donde se disfrutan unas \r\nexcelentes vistas de la costa asturiana. En él se conservan los restos \r\narqueológicos de un poblado de época prerromana cuyo origen se puede situar en \r\ntorno a los siglos VI-V a. C. y que fue romanizado en el siglo I d.C. , conocido \r\npor las fuentes clásicas con el nombre de Noega.<br/><br/>El Parque \r\nArqueológico-Natural de la Campa Torres nos proporciona información sobre la \r\nprotohistoria asturiana y en especial, sobre los orígenes de la ciudad de Gijón \r\ny nos permite conocer el paso de la época prerromana a la romana, período en el \r\nque podemos profundizar con la visita a las Termas Romanas de Campo Valdés y a \r\nla Villa Romana de Veranes. Su objetivo es la conservación, investigación y \r\ndifusión de los restos arqueológicos buscando el equilibrio con su entorno \r\nnatural.<br/><br/>La visita al parque se articula en dos partes: el museo y un \r\nitinerario arqueológico a través de la ruina. El edificio de recepción se sitúa \r\na la entrada del yacimiento y se destina a la acogida de visitantes y a la \r\npresentación de exposiciones temporales. (mayúscula)El museo, construido sobre \r\nun antiguo emplazamiento de artillería de costa, presenta una exposición \r\npermanente en la que se hace un recorrido por la historia del castro desde sus \r\norígenes hasta la época romana. La visita a los edificios finaliza en el Faro \r\ndel Cabo Torres, con una exposición permanente sobre la historia del edificio, \r\ndel cabo y su fondeadero. En el piso superior se encuentra la Biblioteca y \r\nCentro de documentación Manuel Fernández-Miranda y las oficinas administrativas \r\nde los Museos Arqueológicos de Gijón.<br/><br/>El itinerario arqueológico nos \r\npermite identificar los elementos más significativos del castro. Además, el \r\nparque cuenta con un observatorio de aves y un mirador con amplias vistas sobre \r\nel puerto y la ciudad.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "",
+                {"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"}
+            ],
+            "fax": "",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6381/197x295_v1_Directoriomuseoscampa.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Octubre-marzo: martes a domingos y festivos, de 10 a 17 h. Abril-septiembre: \r\nmartes a domingos y festivos, de 10.30 a 19h.",
+            "identificador": 371,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.568817 -5.704307",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Parque Arqueológico Natural Campa Torres",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/371-parque-arqueologico-natural-campa-torres",
+            "send": "fecha-actualizacion2015-07-20 15:23:14 +0200",
+            "telefono": {
+                "content": "985 185 234",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Monumentos,Museos,Parques y Jardines,Cultura y Ocio,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/371-parque-arqueologico-natural-campa-torres",
+            "web": "http://museos.gijon.es"
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Parques y Jardines",
+                "id": 415,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Diecisiete de Agosto",
+                {
+                    "content": "Plaza Diecisiete de Agosto",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 360,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536144 -5.659869",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Plaza Diecisiete de Agosto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/360-plaza-diecisiete-de-agosto",
+            "send": "fecha-actualizacion2014-01-22 12:02:28 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/360-plaza-diecisiete-de-agosto",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Areas Recreativas",
+                    "id": 411,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Parques y Jardines",
+                    "id": 415,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Zona de monte desde la que se ofrece una magnífica panorámica del casco urbano de Gijón y costa.\r\nSe accede desde la carretera N-632 Gijón-Villaviciosa tomamos a la derecha desde Cabueñes por La Reguera en dirección a Deva y a unos 2 km. de la iglesia, en el Parque Monte Deva, se encuentra el área.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Monte Deva",
+                {
+                    "content": "Monte Deva",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6341/126x79_v1_DirectorioareasrecreativasDeva.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 279,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.490354 -5.605216",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Pinar - Monte Deva",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/279-el-pinar-monte-deva",
+            "send": "fecha-actualizacion2014-01-22 12:02:26 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Areas Recreativas,Parques y Jardines",
+            "url": "http://www.gijon.es/directorios/show/279-el-pinar-monte-deva",
+            "web": ""
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}

@@ -1,0 +1,269 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guarderías de Segundo Ciclo",
+                    "id": 5,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "miguelhe@educastur.org",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Cortijo, 17",
+                {
+                    "content": "C/Cortijo, 17",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 314 244",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6448/306x229_v1_Directorioeducacionmhernandez.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a Viernes: 9:00-14:00h.",
+            "identificador": 484,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536803 -5.689207",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Colegio Miguel Hernández",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/484-colegio-miguel-hernandez",
+            "send": "fecha-actualizacion2014-01-22 12:02:32 +0100",
+            "telefono": {
+                "content": "985 314 244",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Guarderías de Segundo Ciclo",
+            "url": "http://www.gijon.es/directorios/show/484-colegio-miguel-hernandez",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guarderías de Segundo Ciclo",
+                    "id": 5,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "lasmestas@educastur.org",
+            "descripcion": {
+                "content": "Jornada Continua:no. Comedor:si(Ayto.).Asturiano:no.Oferta Formativa:EI-2",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Ctra. de Villaviciosa, 24",
+                {
+                    "content": "Ctra. de Villaviciosa, 24",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 333 818",
+            "horario": "Lunes a Viernes: 9:00-14:00h.",
+            "identificador": 477,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.533737 -5.639049",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Colegio Las Mestas",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/477-colegio-las-mestas",
+            "send": "fecha-actualizacion2014-01-22 12:02:31 +0100",
+            "telefono": {
+                "content": "985 333 818",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Guarderías de Segundo Ciclo",
+            "url": "http://www.gijon.es/directorios/show/477-colegio-las-mestas",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guarderías de Segundo Ciclo",
+                    "id": 5,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "zorrilla@educastur.org",
+            "descripcion": {
+                "content": "Jornada Continua:si. Comedor:si(Ayto.).Asturiano:no. Oferta Formativa:EI-2",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Barros, s/n.",
+                {
+                    "content": "C/Barros, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 313 509",
+            "horario": "Lunes a Viernes: 9:00-14:00h.",
+            "identificador": 473,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.540871 -5.705922",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Colegio José Zorrilla",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/473-colegio-jose-zorrilla",
+            "send": "fecha-actualizacion2014-01-22 12:02:31 +0100",
+            "telefono": {
+                "content": "985 323 016",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Guarderías de Segundo Ciclo",
+            "url": "http://www.gijon.es/directorios/show/473-colegio-jose-zorrilla",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guarderías de Segundo Ciclo",
+                    "id": 5,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "gloriafuertes@educastur.org",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Río de Oro, 35",
+                {
+                    "content": "C/Río de Oro, 35",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 141 249",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6439/280x210_v1_Directorioeducacionllanoin.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "(Septiembre a Junio)Lunes a Viernes: 9:00-13:00h.(Octubre a Mayo)Lunes a Viernes: 9:00-14:00h.",
+            "identificador": 470,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.527317 -5.663399",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Colegio Gloria Fuertes(El Llano)",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/470-colegio-gloria-fuertes-el-llano",
+            "send": "fecha-actualizacion2014-01-22 12:02:31 +0100",
+            "telefono": {
+                "content": "985 141 249",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Guarderías de Segundo Ciclo",
+            "url": "http://www.gijon.es/directorios/show/470-colegio-gloria-fuertes-el-llano",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guarderías de Segundo Ciclo",
+                    "id": 5,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "acasona@educastur.org",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/Puerto de Piedrafita, s/n.",
+                {
+                    "content": "C/Puerto de Piedrafita, s/n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 399 086",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6431/306x229_v1_Directorioeducacioncasona.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "(Septiembre a Junio)Lunes a Viernes:9:00-13:00h.Octubre a Mayo:9:00-14:00h.Secretaría:13:00-14:00h",
+            "identificador": 456,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.530501 -5.676439",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Colegio Alejandro Casona",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/456-colegio-alejandro-casona",
+            "send": "fecha-actualizacion2014-01-22 12:02:31 +0100",
+            "telefono": {
+                "content": "985 399 086",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Guarderías de Segundo Ciclo",
+            "url": "http://www.gijon.es/directorios/show/456-colegio-alejandro-casona",
+            "web": ""
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}
